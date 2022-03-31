@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.111.55.191:7306/mdriyaz/repository/mdriyaz-nodejs/"
+    "registry": "http://3.110.154.36:7306/mdriyaz/repository/mdriyaz-nodejs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
